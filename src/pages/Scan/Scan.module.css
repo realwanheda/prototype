@@ -1,0 +1,49 @@
+.content {
+  display: flex;
+  gap: 6rem;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 80vh;
+  font-family: abel;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: medium;
+  font-weight: 600;
+}
+.gif {
+  display: flex;
+  align-items: center;
+  width: 25rem;
+  height: 10rem;
+  background-color: aqua;
+}
+h1,
+h2 {
+  color: #0e27a2;
+}
+.button {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.next {
+  background-color: #0e27a2;
+  color: #ffffff;
+  border: none;
+  font-weight: bold;
+  font-size: large;
+  width: 9rem;
+  height: 2rem;
+  border-radius: 10px;
+  font-family: abel;
+}

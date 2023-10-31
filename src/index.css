@@ -1,11 +1,17 @@
 :root {
-    font-family: 'Abel', sans-serif !important;
-    line-height: 1.5;
-    font-weight: 400;
-  
-    font-synthesis: none;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-text-size-adjust: 100%;
-  }
+  font-family: "Abel", sans-serif !important;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+}

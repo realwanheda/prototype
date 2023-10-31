@@ -1,0 +1,44 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: abel;
+  height: 75vh;
+  gap: 2rem;
+}
+.heading {
+  height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.you {
+  font-size: 3rem;
+  font-family: abel;
+}
+.mic img {
+  height: 2.3rem;
+}
+.touch {
+  font-size: 2rem;
+  color: #0e27a2;
+  width: 20rem;
+}
+.button {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.next {
+  background-color: #0e27a2;
+  color: #ffffff;
+  border: none;
+  font-weight: bold;
+  font-size: large;
+  width: 9rem;
+  height: 2rem;
+  border-radius: 10px;
+  font-family: abel;
+  cursor: pointer;
+}
