@@ -1,0 +1,62 @@
+/* Home.module.css */
+.container{
+  font-family: abel;
+}
+.touch {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+    color: #0E27A2;
+font-family: Abel;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 309px;
+height: 51px;
+top: 62px;
+left: 345px;
+
+  }
+  
+  .fastest {
+    color: #100F0F;
+font-family: Abel;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  
+  .click {
+    color: #100F0F;
+font-family: Abel;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  
+  .logoImage {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .homeButtonImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+  }
+  
+  .arrowImage {
+    text-align: center;
+    margin-top: 20px;
+    width: 27.289px;
+height: 34.566px;
+transform: rotate(90deg);
+flex-shrink: 0;
+  }
+  
+  /* Define other styles for your images here */
+  
